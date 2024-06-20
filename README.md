@@ -1,4 +1,4 @@
-## Hi there 👋🏿 I'm Mone't Fulgham
+## Hi there, I'm Mone't Fulgham
 
 <!--
 **jmfulgham/jmfulgham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
