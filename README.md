@@ -20,4 +20,4 @@ Previously I was ...
  * A front end engineering consultant with [Formidable Labs](https://github.com/formidablelabs), a NearForm company, where I played a pivotal role in slashing a client's average page render time from 5 seconds to just 137 milliseconds. 
  * A software engineer with [Home Depot](https://github.com/homedepot), I honed my skills in test driven development, and scaling with Google Cloud Platform and Kubernetes.
 
-Currently I'm looking for a position where I can leverage my skills in React, Typescript and Node. Feel free to reach out to me at [mo@jaimo.net](mailto:mo@jaimo.net)
+Currently I'm looking for a position where I can leverage my skills in React, Typescript and Node/Express. I have experience with PostgreSQL databases, and I'm always eager to learn new tech. Feel free to reach out to me at [mo@jaimo.net](mailto:mo@jaimo.net)
