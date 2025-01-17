@@ -1,4 +1,4 @@
-## Hi there, I'm Mone't Fulgham
+## Hi there, I'm JM Fulgham
 
 <!--
 **jmfulgham/jmfulgham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ Previously I was ...
  * A front end engineering consultant with [Formidable Labs](https://github.com/formidablelabs), a NearForm company, where I played a pivotal role in slashing a client's average page render time from 5 seconds to just 137 milliseconds. 
  * A software engineer with [Home Depot](https://github.com/homedepot), I honed my skills in test driven development, and scaling with Google Cloud Platform and Kubernetes.
 
-Currently I'm looking for a position where I can leverage my skills in React, Typescript and Node/Express. I have experience with PostgreSQL databases, and I'm always eager to learn new tech. Feel free to reach out to me at [mo@jaimo.net](mailto:mo@jaimo.net)
+Now, [I'm working with Finish Line and JD Sports](https://github.com/mfulgham1) to rebuild their consumer platforms. Feel free to reach out to me at [mo@jaimo.net](mailto:mo@jaimo.net)
