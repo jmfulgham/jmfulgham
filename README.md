@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a full stack engineer that specializes in test driven development.
+I'm a full stack engineer that specializes in test driven development. Currently, [I'm working with Finish Line and JD Sports](https://github.com/mfulgham1) to rebuild their consumer platforms.
+
 Previously I was ...
  * A full stack software engineer with [Unstoppable Domains](https://github.com/unstoppabledomains), where I led the charge to increase testing coverage by 40% my first two months of employment
  * A front end engineering consultant with [Formidable Labs](https://github.com/formidablelabs), a NearForm company, where I played a pivotal role in slashing a client's average page render time from 5 seconds to just 137 milliseconds. 
  * A software engineer with [Home Depot](https://github.com/homedepot), I honed my skills in test driven development, and scaling with Google Cloud Platform and Kubernetes.
 
-Now, [I'm working with Finish Line and JD Sports](https://github.com/mfulgham1) to rebuild their consumer platforms. Feel free to reach out to me at [mo@jaimo.net](mailto:mo@jaimo.net)
+If you're working on something interesting, please feel free to reach out to me at [mo@jaimo.net](mailto:mo@jaimo.net)
